@@ -1,9 +1,8 @@
 # Natyka
-Hi, I'm Natyka Callwood
-🔭 I’m currently working on ...finishing Pursuit
-🌱 I’m currently learning ...Software Engineering
-👯 I’m looking to collaborate on ...projects that improve daily living
-🤔 I’m looking for help with ... all things coding
-💬 Ask me about ... the universe
-📫 Email me: ...NatykaCallwood@pursuit.org
-⚡ Fun fact: ... I like doing hair, especially hairbraiding with intricate designs
+Hi 👋🏽 I'm ✨Natyka Callwood✨<br/> <br/>
+🔭 I’m currently a Full Stack Engineer student at Pursuit <br/> <br/>
+🌱 I’m currently learning JavaScript and React <br/> <br/>
+👯 I’m looking to collaborate on projects that will help to improve our everyday lives <br/> <br/>
+💬 Ask me anything about the universe 🔮 <br/> <br/>
+📫 Email me: NatykaCallwood@pursuit.org<br/> <br/>
+⚡ Fun fact: I love doing hair, especially braiding intricate designs
